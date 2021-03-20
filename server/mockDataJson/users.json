@@ -1,0 +1,57 @@
+[
+  {
+    "userName": "Mike",
+    "email": "olasg@may.com",
+    "age": "23"
+  },
+  {
+    "userName": "Lucy",
+    "email": "lucy@april.com",
+    "age": "48"
+  },
+  {
+    "userName": "Oleg",
+    "email": "pass13@december.com",
+    "age": "34"
+  },
+  {
+    "userName": "Kathy",
+    "email": "kathie78@may.com",
+    "age": "19"
+  },
+  {
+    "userName": "Deniska",
+    "email": "den1564@gmail.com",
+    "age": "29"
+  },
+  {
+    "userName": "Daria",
+    "email": "Dar1997@gmail.com",
+    "age": "25"
+  },
+  {
+    "userName": "Borat",
+    "email": "kazah@gmail.kz",
+    "age": "66"
+  },
+  {
+    "userName": "Patrik",
+    "email": "star@gmail.com",
+    "age": "45"
+  },
+  {
+    "userName": "Riki",
+    "email": "mar@gmail.com",
+    "age": "59"
+  },
+  {
+    "userName": "Kate",
+    "email": "upton@gmail.com",
+    "age": "33"
+  },
+  {
+    "userName": "Ashley",
+    "email": "luke@gmail.com",
+    "age": "44"
+  }
+]

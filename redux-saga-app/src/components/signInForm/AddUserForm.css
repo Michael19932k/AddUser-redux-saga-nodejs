@@ -1,0 +1,38 @@
+.Form {
+    padding-top: 3vh;
+    color: #000;
+    background-color: #f1f1f1;
+    width: 30vw;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 20vh auto auto auto;
+    box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+}
+
+.fieldContainer{
+    width: 20vw;
+}
+
+.inputWrapper{
+    display: flex;
+    flex-direction: column;
+}
+
+.input{
+    padding: 14px;
+    margin: 6px 0;
+    border-radius: 4px;
+    border: 1px solid #ced4da;
+    background-color: #fff;
+    box-sizing: border-box;
+}
+
+.help{
+    color: #d9212c;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+}
